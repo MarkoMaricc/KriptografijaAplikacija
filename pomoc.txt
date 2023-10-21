@@ -1,0 +1,9 @@
+#milos$/ssss/ssss/sss/prvi1.txt,/ssss/ssss/sss/treci3.txt,/ssss/ssss/sss/drugi2.txt$marko.txt,petar.txt,fila.txt##
+#petar$/ssss/ssss/sss/prvi1.txt,/ssss/ssss/sss/treci3.txt,/ssss/ssss/sss/drugi2.txt$marko.txt,petar.txt,fila.txt##
+#pipa$$##
+#kos$/ssss/ssss/sss/prvi1.txt,/ssss/ssss/sss/treci3.txt,/ssss/ssss/sss/drugi2.txt$marko.txt,petar.txt,fila.txt,ssss.txt,ssss.txt,sssst.txt,ssssssssssssssssssssssssss
+sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.txt##
+#slavko$/ssss/ssss/sss/prvi1.txt,/ssss/ssss/sss/treci3.txt,/ssss/ssss/sss/drugi2.txt$marko.txt,petar.txt,fila.txt##
+#mika$$##
+#krle$$##
+
